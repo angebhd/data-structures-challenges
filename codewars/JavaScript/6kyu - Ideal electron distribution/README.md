@@ -1,0 +1,1 @@
+# 6kyu - Ideal electron distribution
